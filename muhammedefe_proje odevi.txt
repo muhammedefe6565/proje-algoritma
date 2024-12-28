@@ -1,3 +1,0 @@
-﻿Derleme şu saatte başlatıldı: 15:34...
-========== Derleme: 0 başarılı, 0 başarısız, 1 güncel, 0 atlandı ==========
-========== Derleme şu saatte tamamlandı: 15:34 ve 01,497 saniye sürdü ==========
